@@ -7,4 +7,6 @@ Multi-line comment
 */
 
 // Vatiables
-var 
+var sebastian = 6;
+sebastian = 3;
+const kevin = "kevin";
