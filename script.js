@@ -22,10 +22,25 @@ julie = 3;
 
 let kai = "Kai";
 
-//assignment, manipulation
+//Data Types  
+let a = 7; // number
+let b = 7.4; // also a number
+let c = "cheese"; // string
+let d = "true"; // boolean
+let e = "false"; // boolean
+
+
+//assignment, operators
 julie = 3; // assignment
 julie = julie + 2; // addition
 julie = julie - 4; // subtraction
-julie = julie + 2;
-julie = julie + 2;
+julie = julie * 2; // multiple
+julie = julie / 2; // division
+
+let cup = "Cup";
+let water = " of water";
+
+cup = cup + water;
+console.log(cup);
+
 // Variables
