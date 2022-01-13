@@ -40,7 +40,13 @@ julie = julie / 2; // division
 let cup = "Cup";
 let water = " of water";
 
-cup = cup + water;
-console.log(cup);
+water = cup + water;
 
-// Variables
+cup = cup + water;
+
+let textbox = document.getElementById("textbox");
+
+let obj = {
+  a: 89,
+  b: 23
+};
